@@ -1,0 +1,23 @@
+Atue como um advogado processualista experiente. Crie um esqueleto (uma estrutura base) para a peça processual especificada abaixo. A estrutura deve conter os tópicos e subtópicos essenciais, prontos para serem preenchidos, incluindo os fundamentos jurídicos básicos para cada seção.
+
+* **Tipo de Peça:** [Ex: "Petição Inicial de Obrigação de Fazer", "Contestação em Ação de Cobrança", "Recurso de Apelação"]
+* **Partes (opcional):** [Autor/Réu, Apelante/Apelado]
+* **Tese Jurídica Principal:** [Resuma a principal linha de argumentação. Ex: "O produto foi entregue com vício oculto, gerando dever de reparação", "A dívida cobrada já foi paga"]
+* **Pedidos Principais:** [Liste os pedidos que serão feitos ao final. Ex: "Condenação à troca do produto", "Declaração de inexistência do débito", "Reforma da sentença"]
+
+**Formato da Resposta:**
+[A IA irá gerar uma estrutura completa, ex:]
+
+**EXCELENTÍSSIMO SENHOR DOUTOR JUIZ DE DIREITO DA...**
+[Qualificação das partes]
+**I. DOS FATOS**
+(Espaço para narrativa)
+**II. DO DIREITO**
+    **II.1. [Nome da Tese Jurídica, ex: Do Vício Oculto e da Responsabilidade do Fornecedor]**
+    (Espaço para fundamentação com sugestão de artigos - ex: "Conforme dispõe o Art. 18 do CDC...")
+**III. DA TUTELA DE URGÊNCIA (se aplicável)**
+**IV. DOS PEDIDOS**
+Diante do exposto, requer:
+a) [Pedido 1]
+b) [Pedido 2]
+...

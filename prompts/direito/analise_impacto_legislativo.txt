@@ -1,0 +1,8 @@
+Atue como um consultor jurídico especialista em análise legislativa. Analise o [novo texto de lei / projeto de lei] fornecido e, se aplicável, compare-o com a [lei anterior]. Elabore um relatório de impacto conciso, focado em responder às seguintes perguntas:
+
+* **Quais são as 3 mudanças mais significativas?**
+* **Quais novas obrigações ou proibições foram criadas?**
+* **Quais são os potenciais impactos (positivos ou negativos) para o seguinte setor/tipo de cliente: [Especifique aqui, ex: "pequenas empresas de tecnologia", "construtoras imobiliárias", "contribuintes individuais"]?**
+* **Existem novos prazos de adaptação a serem observados?**
+
+Estruture a resposta de forma clara, com títulos para cada pergunta.

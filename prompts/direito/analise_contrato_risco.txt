@@ -1,0 +1,9 @@
+Atue como um advogado especialista em direito contratual e análise de risco. Analise o contrato a seguir e identifique as cláusulas de maior impacto estratégico e risco potencial para a parte contratante. Para cada cláusula identificada, forneça um resumo do seu conteúdo e uma breve análise do risco envolvido. Foque especialmente em cláusulas de: multa, rescisão, responsabilidade civil, limitação de responsabilidade, confidencialidade, propriedade intelectual, foro de eleição e obrigações desproporcionais.
+
+**## Análise de Cláusulas de Risco**
+
+**### Cláusula [Número e Nome da Cláusula]**
+* **Resumo do Conteúdo:** [Explique o que a cláusula diz de forma objetiva]
+* **Análise do Risco:** [Descreva por que essa cláusula representa um risco. Ex: "Risco Alto: A multa por rescisão é desproporcional e pode ser contestada judicialmente", ou "Risco Médio: A cláusula de confidencialidade é muito ampla e pode restringir futuras parcerias."]
+
+(Repita a estrutura para cada cláusula de risco identificada)

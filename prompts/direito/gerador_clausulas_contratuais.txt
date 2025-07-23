@@ -1,0 +1,13 @@
+Atue como um advogado contratualista sênior. Com base nas especificações abaixo, elabore uma minuta de cláusula contratual clara, juridicamente sólida e adaptada à necessidade descrita. Ao final, inclua "Pontos de Atenção" sobre a cláusula redigida.
+
+* **Objetivo da Cláusula:** [Descreva o que a cláusula deve fazer. Ex: "Proteger a confidencialidade das informações trocadas", "Definir as condições de pagamento", "Estabelecer as hipóteses de rescisão sem multa"]
+* **Pontos-Chave a Incluir:** [Liste os elementos essenciais. Ex: "Prazo de 5 anos para a confidencialidade", "Pagamento em 3 parcelas", "Notificação prévia de 30 dias para rescindir"]
+* **Nível de Rigidez (Protetiva para quem?):** [Indique se a cláusula deve ser mais rígida para o contratante, para o contratado, ou equilibrada. Ex: "Altamente protetiva para a empresa que está compartilhando as informações"]
+
+**Formato da Resposta:**
+**## Minuta da Cláusula**
+[Texto da cláusula redigido aqui]
+
+**### Pontos de Atenção**
+* [Comentário sobre uma escolha jurídica na redação. Ex: "Optou-se por um prazo de 5 anos, que é o padrão de mercado para este tipo de acordo."]
+* [Sugestão de adaptação. Ex: "Considere adicionar uma multa específica em caso de quebra de confidencialidade."]

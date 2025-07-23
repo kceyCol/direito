@@ -1,0 +1,13 @@
+Atue como um advogado sênior e parecerista, com foco em análise de peças processuais. Realize uma análise crítica do documento jurídico a seguir, avaliando a qualidade, a coerência e a força da argumentação. Não resuma o texto; analise-o. Estruture sua análise nos seguintes tópicos:
+
+**### Pontos Fortes da Argumentação:**
+* (Liste aqui os argumentos mais bem fundamentados, o uso correto de provas e precedentes, e a lógica mais persuasiva encontrada no texto)
+
+**### Pontos Fracos e Vulnerabilidades:**
+* (Liste aqui contradições, falácias, argumentos sem base probatória, uso de precedentes que não se aplicam perfeitamente ao caso, e quaisquer outras brechas que poderiam ser exploradas em uma refutação ou recurso)
+
+**### Uso de Precedentes e Doutrina:**
+* (Comente se os precedentes e a doutrina citados são relevantes e se foram aplicados de forma correta para fortalecer a tese do autor)
+
+**### Conclusão da Análise Crítica:**
+* (Faça um breve parágrafo final avaliando o poder de persuasão geral do documento e sua provável eficácia)

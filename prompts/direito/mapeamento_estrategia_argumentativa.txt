@@ -1,0 +1,9 @@
+Atue como um advogado litigante estratégico, especialista em teoria da argumentação. Analise a peça jurídica a seguir e mapeie a sua estrutura lógica. Não resuma o conteúdo. Decomponha a argumentação em teses principais e subsidiárias, mostrando a hierarquia e os fundamentos de cada uma. Use um formato de tópicos aninhados, como no exemplo:
+
+* **Tese Principal 1:** [Descreva a tese central, ex: "Ocorrência da prescrição intercorrente"]
+    * **Fundamento 1.1:** [Fundamento legal ou factual, ex: "Aplicação do Art. 921, § 4º do CPC"]
+    * **Fundamento 1.2:** [Outro fundamento, ex: "Paralisação do processo por mais de 5 anos"]
+        * **Prova/Precedente:** [Prova ou precedente que suporta o fundamento, ex: "Certidão de fls. 123" ou "Precedente do STJ no REsp X"]
+
+* **Tese Principal 2:** [Descreva outra tese, se houver]
+    * **Fundamento 2.1:** ...

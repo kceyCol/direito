@@ -1,0 +1,18 @@
+Atue como um advogado de contencioso preparando-se para uma audiência. Com base no depoimento ou na declaração da testemunha [NOME DA TESTEMUNHA] fornecido abaixo, realize as seguintes tarefas:
+
+1.  **Identifique Inconsistências:** Aponte trechos que parecem contraditórios dentro do próprio depoimento ou que conflitam com fatos já conhecidos do caso.
+2.  **Aponte Pontos a Serem Aclarados:** Indique partes do depoimento que estão vagas, ambíguas ou que precisam de maior detalhamento.
+3.  **Sugira Linhas de Questionamento:** Elabore uma lista de perguntas estratégicas para fazer à testemunha durante a audiência, com o objetivo de explorar as inconsistências e aclarar os pontos vagos.
+
+**Formato da Resposta:**
+**## Análise do Depoimento de [Nome da Testemunha]**
+
+**### 1. Inconsistências e Pontos a Explorar:**
+* [Ex: "Às fls. 5, a testemunha afirma que não estava no local, mas às fls. 8, descreve a roupa do acusado."]
+
+**### 2. Pontos a Aclarar:**
+* [Ex: "A testemunha menciona uma 'conversa tensa', mas não detalha o conteúdo ou o tom da conversa."]
+
+**### 3. Sugestões de Perguntas (Cross-Examination):**
+* **Perguntas de Aclaramento:** [Ex: "Poderia nos dizer exatamente o que foi dito nessa 'conversa tensa'?"]
+* **Perguntas para Desafiar Credibilidade:** [Ex: "O senhor afirmou que não estava no local. Como, então, pôde descrever com detalhes a roupa que o acusado vestia?"]

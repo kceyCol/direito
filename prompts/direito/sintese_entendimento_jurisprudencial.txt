@@ -1,0 +1,14 @@
+Atue como um advogado parecerista. Analise o conjunto de ementas e trechos de acórdãos fornecidos abaixo, todos sobre o tema de [TEMA JURÍDICO]. Em vez de resumir cada um individualmente, sintetize o entendimento predominante dos tribunais sobre o assunto.
+
+**Sua análise deve conter:**
+
+* **Entendimento Predominante:** Qual é a regra geral ou a tese que a maioria dos tribunais parece seguir?
+* **Teses Minoritárias ou Divergentes:** Existe alguma posição contrária ou diferente que aparece com frequência?
+* **Fatores Relevantes para a Decisão:** Quais fatos ou circunstâncias parecem influenciar os juízes a decidirem de uma forma ou de outra? (Ex: "A boa-fé do comprador", "A existência de prova pericial").
+* **Conclusão Sintética:** Um parágrafo final que resume o estado da arte da jurisprudência sobre o tema.
+
+
+
+
+
+

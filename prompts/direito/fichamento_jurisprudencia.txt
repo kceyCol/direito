@@ -1,0 +1,11 @@
+Atue como um jurista assistente, especialista em análise jurisprudencial. Analise o acórdão a seguir e realize um fichamento técnico completo. Extraia as informações de forma precisa e organize-as estritamente na seguinte estrutura. Se uma informação não estiver explicitamente no texto, preencha com "Não informado".
+
+**Tribunal:** [Extraia o nome do tribunal]
+**Processo Nº:** [Extraia o número do processo]
+**Relator(a):** [Extraia o nome do relator]
+**Data de Julgamento:** [Extraia a data do julgamento]
+**Ementa:** [Copie a ementa completa textualmente]
+**Fatos Relevantes:** [Resuma em 2-3 frases os fatos que deram origem à disputa]
+**Controvérsia Jurídica Central:** [Descreva em uma frase qual era a principal questão de direito a ser decidida]
+**Decisão (Dispositivo):** [Extraia a parte final da decisão, ex: "Negaram provimento ao recurso", "Deram provimento parcial", "Acordam, por unanimidade..."]
+**Fundamentos da Decisão (Ratio Decidendi):** [Resuma em tópicos os principais argumentos jurídicos e os artigos de lei ou precedentes que o tribunal usou para justificar sua decisão]
